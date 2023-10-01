@@ -15,7 +15,7 @@ export default function TodoList() {
   })
 
   return (
-    <div className="col d-flex flex-column justify-content-center">
+    <div className="flex flex-col items-center">
       { taskList }
     </div>
   )
