@@ -1,3 +1,3 @@
 # Simple Todo App 
 
-- simple todo app using react and bootstrap
+- simple todo app using react and tailwindcss
